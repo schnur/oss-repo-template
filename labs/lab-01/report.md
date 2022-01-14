@@ -37,7 +37,7 @@
 
 5 Blockly
 
-![Blockly](Blockly10.png "Blockly")
+![Blockly](Blocky10.png "Blockly")
 
 6 Reflection
 
