@@ -20,24 +20,24 @@
 
 4.1 Regex Problems
 
-![Regex1](Regex1.png "Regex1")
-![Regex2](Regex2.png "Regex2")
-![Regex3](Regex3.png "Regex3")
-![Regex4](Regex4.png "Regex4")
-![Regex5](Regex5.png "Regex5")
-![Regex6](Regex6.png "Regex6")
-![Regex7](Regex7.png "Regex7")
+![Regex1](Regex1.PNG "Regex1")
+![Regex2](Regex2.PNG "Regex2")
+![Regex3](Regex3.PNG "Regex3")
+![Regex4](Regex4.PNG "Regex4")
+![Regex5](Regex5.PNG "Regex5")
+![Regex6](Regex6.PNG "Regex6")
+![Regex7](Regex7.PNG "Regex7")
 
 4.2 Regex Crosswords
 
-![Puzzel1](Puzzel1.png "Puzzel1")
-![Puzzel2](Puzzel2.png "Puzzel2")
-![Puzzel3](Puzzel3.png "Puzzel3")
-![Puzzel4](Puzzel4.png "Puzzel4")
+![Puzzel1](Puzzel1.PNG "Puzzel1")
+![Puzzel2](Puzzel2.PNG "Puzzel2")
+![Puzzel3](Puzzel3.PNG "Puzzel3")
+![Puzzel4](Puzzel4.PNG "Puzzel4")
 
 5 Blockly
 
-![Blockly](Blocky10.png "Blockly")
+![Blockly](Blocky10.PNG "Blockly")
 
 6 Reflection
 
