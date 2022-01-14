@@ -4,7 +4,7 @@
 ## Bio
 Hi I am Ryan Schnur and I am from Long Island NY and a Senoir hear at RPI. I have a Full time offer from Amazon and can't wait to finish school and start my life in Seattle
 
-![it's me](oss-repo-template\me.jpg "Me on Mt Rainier").
+[it's me](oss-repo-template\me.jpg "Me on Mt Rainier")
 
 ## Lab Reports
 [Lab 1](labs/lab-01/report.md)
