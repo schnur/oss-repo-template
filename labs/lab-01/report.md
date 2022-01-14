@@ -1,7 +1,7 @@
 # Lab 01 Report - Introduction to Open Source Software
 0.3
 
-![Intro](labs\lab-1\pics.png "Intro")
+![Intro](labs\lab-01\pics.png "Intro")
 
 2 Reading
 
