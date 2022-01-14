@@ -1,8 +1,7 @@
 # Lab 01 Report - Introduction to Open Source Software
-![it's me](me.jpg "Me on Mt Rainier")
 0.3
 
-![Intro](oss-repo-template\labs\lab-01\pics.PNG "Intro")
+![Intro](pics.PNG "Intro")
 
 2 Reading
 
