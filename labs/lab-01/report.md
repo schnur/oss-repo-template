@@ -16,7 +16,7 @@
 
 3 Linux
 
-![Tree](OSLinuxTreeSnip.png "man on tree")
+![Tree](OSLinuxTreeSnip.PNG "Man on tree")
 
 4.1 Regex Problems
 
