@@ -1,12 +1,12 @@
-#Part 1
+# Part 1
 
 https://github.com/schnur/lab2part1
 
 ![gitk](lab21_1.PNG "gitk")
 
-![gitk_log](lab21_1.PNG "gitk_log")
+![gitk_log](lab21_2.PNG "gitk_log")
 
-#Part 2
+# Part 2
 
 https://github.com/schnur/Spoon-Knife
 
@@ -20,7 +20,7 @@ https://github.com/schnur/Spoon-Knife
 
 ![gitBranchingfinal](lab22_final.PNG "gitBranchingfinal")
 
-#Part 3
+# Part 3
 
 https://github.com/schnur/PullReq
 
