@@ -21,28 +21,31 @@ Parts 1,2,3 don't have info to submit
 
 4. 
 
-# Campus Watch
+## Campus Watch
 2 contributors
 2690 lines
 First commit was on Jan 18, 2019
 Last commit was on Apr 17, 2019
 There are 13 branches
 Gitstats
-# Campvs
+
+## Campvs
 4 contributors
 1549 lines of code
 First commit - Mar 13, 2016
 Last commit - May 12, 2017
 1 branch - master
 Gitstats
-# Butter-Project
+
+## Butter-Project
 3 contributors
 158821 lines of code
 First commit - Feb 19, 2014
 Last commit - May 03, 2016
 9 branches - master, etc.
 Gitstats
-# C-SSAW
+
+## C-SSAW
 4 Contributors
 13657 lines of code
 c6eef16dbc7d60453fe953f6915dfa9605bab85c on Sep 13/2019 first commit
@@ -51,16 +54,16 @@ c6eef16dbc7d60453fe953f6915dfa9605bab85c on Sep 13/2019 first commit
 Gitstats
 
 5.
-# Campus Watch
-![Campus Watch](https://img.rsrivastava.io/6818879150441643394104.PNG "Campus Watch")
+## Campus Watch
+![Campus Watch](https://img.rsrivastava.io/6818879150441643394104.png "Campus Watch")
 
-# Campvs
-![Campvs](https://user-images.githubusercontent.com/75342856/151598160-661f199e-9679-4840-9827-1851a3d424a4.PNG "Campvs")
+## Campvs
+![Campvs](https://user-images.githubusercontent.com/75342856/151598160-661f199e-9679-4840-9827-1851a3d424a4.png "Campvs")
 
-# Butter-Project
+## Butter-Project
 ![Butter-Project](https://cdn.discordapp.com/attachments/936687252602495036/936689540100415488/gitstats-lab3.jpg "Butter-Project")
 
-# C-SSAW
+## C-SSAW
 ![Ryan_C-SAWW](Ryan_C-SAWW.PNG "Ryan_C-SAWW")
 
 6. Did not work Seg Fault
