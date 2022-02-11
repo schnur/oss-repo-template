@@ -1,7 +1,7 @@
 # Steps
 
 ## 1
-![part1](part1.PNG "part1")
+![part1](parts1.PNG "part1")
 
 ## 2
 ![part2](part2.PNG "part2")
